@@ -1,3 +1,3 @@
 type Skill = {
-  title: enum
+  title: string
 }

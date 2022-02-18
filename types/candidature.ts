@@ -1,10 +1,5 @@
-type Employee = {
+type Candidature = {
   title: string
-  coverImage: string
-  profilePicture: string
-  availability: boolean
-  about: string
-  candidatures: Candidature[]
 }
 
-export default Employee
+export default Candidature

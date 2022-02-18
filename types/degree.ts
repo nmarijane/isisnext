@@ -1,5 +1,7 @@
-type Mission = {
+type Degree = {
   title: string
+  school: string,
+  year: string
 }
 
-export default Mission
+export default Degree

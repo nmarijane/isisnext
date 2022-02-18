@@ -1,5 +1,5 @@
-type Candidature = {
+type Feedback = {
   title: string
 }
 
-export default Candidature
+export default Feedback

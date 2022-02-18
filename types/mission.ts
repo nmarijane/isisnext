@@ -1,5 +1,5 @@
-type Feedback = {
+type Mission = {
   title: string
 }
 
-export default Feedback
+export default Mission

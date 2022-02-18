@@ -1,5 +1,9 @@
-type Mission = {
-  title: string
+type Experience = {
+  company: string
+  dateStart: Date
+  dateEnd: Date
+  description: string
+  location: string
 }
 
-export default Mission
+export default Experience
