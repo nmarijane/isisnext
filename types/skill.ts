@@ -1,0 +1,3 @@
+type Skill = {
+  title: enum
+}
